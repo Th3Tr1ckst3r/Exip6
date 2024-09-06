@@ -1,2 +1,6 @@
-# Denyv6
-An IPv6 exploitation tool which demonstrates advanced networking techniques being used in the wild with CVE-2024-38063.
+# Exip6
+A modern IPv6 discovery, and exploitation toolkit for applying IPv6 CVE exploits from
+the past decade to modern systems, & servers with Python3 & Scapy.
+
+# Disclaimer
+Only use on systems, & servers you have explicit permission to. Your actions are your own.
