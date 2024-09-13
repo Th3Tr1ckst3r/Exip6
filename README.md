@@ -15,8 +15,7 @@ the past decade with Python3 & Scapy.
 # About
 Exip6 started out as a relatively simple tool I built to verify wether my own systems were vulnerable
 to a select few of the Windows IPv6 CVE's supported by Exip6. After awhile, I found myself, & 
-other researchers using similar tools while trying to debug various IPv6 bugs. As a result, 
-this tool became more of a toolkit that we are just building on over time.
+other researchers using similar tools while trying to debug various IPv6 bugs.
 
 ## Why Use Exip6?
 If your a security researcher, pentester, or just work I.T. in your department. It can be useful when it
