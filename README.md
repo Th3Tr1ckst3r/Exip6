@@ -32,7 +32,8 @@ to recent bugs.
 - Automated IPv6 discovery mode with optimized NMap scanning all being handled in the background.
 - Verbose output that can actually be of use when required for debugging even the toughest situations.
 - Control over RA packets when discovery matters, but you don't want to trigger your network protection systems.
-  And more!
+
+And more!
 
 ## Installation Notice
 
