@@ -19,9 +19,9 @@ other researchers using similar tools while trying to debug various IPv6 bugs. A
 this tool became more of a toolkit that we are just building on over time.
 
 ## Why Use Exip6?
-If your a security researcher, or just work I.T. in your department. It can be useful when it
-comes to the IPv6 protocol, or just checking if any Windows systems on your network may be vulnerable
-to recent bugs. Especially if you think some systems may not be updated regularly in your network.
+If your a security researcher, pentester, or just work I.T. in your department. It can be useful when it
+comes to the IPv6 protocol for discovery purposes, or just checking if any Windows systems on your network may be vulnerable
+to recent bugs.
 
 ## Features
 
