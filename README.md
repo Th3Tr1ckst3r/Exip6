@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Exip6 Logo" width="300">
+  <img src="/logo/logo.jpg" alt="Exip6 Logo" width="300">
 </p>
 
 # Exip6
