@@ -47,10 +47,14 @@ Once you have Python3 installed, you can follow the steps below.
 ## Required Libraries Install Guide
 
 To use Exip6, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
-Below are the installation instructions for each library:
+It is also highly recommended that you use a virtual environment with venv.
+Below are the installation instructions for each library that are not part of the standard Python3 library:
 
 ```
-
+pip install scapy
+pip install nmap3
+pip install dnspython
+pip install mac-vendor-lookup
 ```
 
 With these libraries installed, you can proceed to with using Exip6!
